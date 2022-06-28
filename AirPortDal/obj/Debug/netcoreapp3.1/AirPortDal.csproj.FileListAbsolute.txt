@@ -1,0 +1,15 @@
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortDal.deps.json
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortDal.runtimeconfig.json
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortDal.runtimeconfig.dev.json
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortDal.dll
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortDal.pdb
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortCommon.dll
+A:\לימודים\AirPortServer\AirPortDal\bin\Debug\netcoreapp3.1\AirPortCommon.pdb
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.csprojAssemblyReference.cache
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.AssemblyInfoInputs.cache
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.AssemblyInfo.cs
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.csproj.CoreCompileInputs.cache
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.csproj.CopyComplete
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.dll
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.pdb
+A:\לימודים\AirPortServer\AirPortDal\obj\Debug\netcoreapp3.1\AirPortDal.genruntimeconfig.cache

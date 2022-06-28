@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\לימודים\\AirPortServer\\AirPortTest\\AirPortTest.csproj": {}
+  },
+  "projects": {
+    "A:\\לימודים\\AirPortServer\\AirPortBl\\AirPortBl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\לימודים\\AirPortServer\\AirPortBl\\AirPortBl.csproj",
+        "projectName": "AirPortBl",
+        "projectPath": "A:\\לימודים\\AirPortServer\\AirPortBl\\AirPortBl.csproj",
+        "packagesPath": "C:\\Users\\talva\\.nuget\\packages\\",
+        "outputPath": "A:\\לימודים\\AirPortServer\\AirPortBl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj": {
+                "projectPath": "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj",
+        "projectName": "AirPortCommon",
+        "projectPath": "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj",
+        "packagesPath": "C:\\Users\\talva\\.nuget\\packages\\",
+        "outputPath": "A:\\לימודים\\AirPortServer\\AirPortCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\לימודים\\AirPortServer\\AirPortTest\\AirPortTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\לימודים\\AirPortServer\\AirPortTest\\AirPortTest.csproj",
+        "projectName": "AirPortTest",
+        "projectPath": "A:\\לימודים\\AirPortServer\\AirPortTest\\AirPortTest.csproj",
+        "packagesPath": "C:\\Users\\talva\\.nuget\\packages\\",
+        "outputPath": "A:\\לימודים\\AirPortServer\\AirPortTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "A:\\לימודים\\AirPortServer\\AirPortBl\\AirPortBl.csproj": {
+                "projectPath": "A:\\לימודים\\AirPortServer\\AirPortBl\\AirPortBl.csproj"
+              },
+              "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj": {
+                "projectPath": "A:\\לימודים\\AirPortServer\\AirPortCommon\\AirPortCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

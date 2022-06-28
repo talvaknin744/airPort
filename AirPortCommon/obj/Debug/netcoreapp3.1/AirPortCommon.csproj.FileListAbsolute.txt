@@ -1,0 +1,9 @@
+A:\לימודים\AirPortServer\AirPortCommon\bin\Debug\netcoreapp3.1\AirPortCommon.deps.json
+A:\לימודים\AirPortServer\AirPortCommon\bin\Debug\netcoreapp3.1\AirPortCommon.dll
+A:\לימודים\AirPortServer\AirPortCommon\bin\Debug\netcoreapp3.1\AirPortCommon.pdb
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.csprojAssemblyReference.cache
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.AssemblyInfoInputs.cache
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.AssemblyInfo.cs
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.csproj.CoreCompileInputs.cache
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.dll
+A:\לימודים\AirPortServer\AirPortCommon\obj\Debug\netcoreapp3.1\AirPortCommon.pdb
